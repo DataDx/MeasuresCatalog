@@ -4,16 +4,26 @@
 
 | Measure Name    | Description               |
 | -------------  |-------------              |
-| [Financial Performance - Charges](#financial-performance-charges)           | Financial Performance - Charges Measure Description         |
-| [Financial Performance - Net Collections](#financial-performance-net-collections)         | Financial Performance - Net Collections Description        |
-| [Financial Performance - Expenses](#financial-performance-net-collections)        | Financial Performance - Expenses Description        |
+| [Financial Performance](#financial-performance-charges)           | Financial Performance - Charges Measure Description         |
 | [Total Patient Visits at Date of Service](#total-patient-visits-at-date-of-service)      | Total Patient Visits at Date of Service Description   |
+| [Visit Codes and Trends](#visit-codes-and-trends)         | Visit Codes and Trends Description        |
+| [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
+| [Monthly Summary](#monthly-summary)        | Monthly Summary Description        |
+| [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
 
-### Financial Performance - Charges  
+
+### Financial Performance  
 **Measure Description**  
-Financial Performance - Charges Measure Description  
+Financial Performance Measure Description  
+Charges description  
+Net Collections description  
+Expenses description  
 **Default Date Range**  
 Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+List report update frequency  
 **Fields and Definitions (click for definition)**  
 [Charges per Provider](#charges-per-provider)  
 [Charges per Total RVU](#charges-per-total-rvu)  
