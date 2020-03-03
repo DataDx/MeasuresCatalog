@@ -4,7 +4,7 @@
 
 | Measure Name    | Description               |
 | -------------  |-------------              |
-| [Financial Performance](#financial-performance-charges)           | Financial Performance - Charges Measure Description         |
+| [Financial Performance](#financial-performance)           | Financial Performance - Charges Measure Description         |
 | [Total Patient Visits at Date of Service](#total-patient-visits-at-date-of-service)      | Total Patient Visits at Date of Service Description   |
 | [Visit Codes and Trends](#visit-codes-and-trends)         | Visit Codes and Trends Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
