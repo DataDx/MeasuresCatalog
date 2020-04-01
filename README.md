@@ -43,38 +43,82 @@ List report update frequency
 
 ### Glossary
 
+#### % Adjustments to Charges  
+#### % Established Visits of New+Established  
+#### % New Visits of New+Established  
+#### % Visits by Payor  
+#### Adjustments  
+#### Adjustments per Provider  
+#### Adjustments per Total RVU  
+#### Adjustments per Visit  
+#### Adjustments per Work RVU  
 #### Charges  
-The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
 [Charges](#charges) divided by [Provider](#provider)  
 #### Charges per Total RVU  
-Charges per Total RVU definition  
 #### Charges per Visit  
-Charges per Visit definition  
 #### Charges per WorkRVU  
-Charges per WorkRVU definition  
-#### CPT Code  
-CPT Code definition  
+#### Credit Amount  
+#### Days Worked  
+#### Debit Amount  
+#### distinctPatienAlt  
+#### Established Patient Visits  
 #### Expenses  
-Expenses definition  
-#### Location Name  
-Location Name definition  
+#### Expenses per Provider  
+#### Expenses per Total RVU  
+#### Expenses Per Visit  
+#### Expenses per Work RVU  
+#### Malpractice RVU  
 #### Net Collections  
-Net Collections definition
-#### Provider Name  
-Provider Name definition  
-#### Provider Specialty  
-Provider Specialty definition  
+#### Net Collections per Patient  
+#### Net Collections per Provider  
+#### Net Collections per Total RVU  
+#### Net Collections per totalRVU  
+#### Net Collections per Visit  
+#### Net Collections per Work RVU  
+#### Net Collections per WorkRVU  
+#### Net GL Amount  
+#### Net Income  
+#### New & Established Patient Visits  
+#### New Patient Visits  
+#### No Charge Patient Visits  
+#### NoChargeVisitFact  
+#### Patient Visits  
+#### Patients per Day  
+#### Practice Expense RVU  
+#### Professional Collections  
+#### Professional Collections per Total RVU  
+#### Professional Collections per Work RVU  
+#### Provider  
 #### PY Charges  
-PY Charges definition  
 #### PY Charges per Provider  
-PY Charges per Provider definition  
 #### PY Charges per Total RVU  
-PY Charges per Total RVU definition  
 #### PY Charges per Visit  
-PY Charges per Visit definition  
 #### PY Charges per WorkRVU  
-PY Charges per WorkRVU definition  
-
-
+#### PY Expenses  
+#### PY Expenses Lenthy  
+#### PY Expenses per Provider  
+#### PY Expenses per Total RVU  
+#### PY Expenses per Visit  
+#### PY Expenses per Work RVU  
+#### PY Net Collections  
+#### PY Net Collections per Provider  
+#### PY Net Collections per Total RVU  
+#### PY Net Collections per Visit  
+#### PY Net Collections per Work RVU  
+#### PY Professional Collections  
+#### PY Visit w Transactions  
+#### PY Visits-Trans Lengthy  
+#### Revenue  
+#### Total RVU  
+#### Total RVU per Patient  
+#### Total Visit Charges  
+#### Total Visit Net Collections  
+#### Total Visit Work RVU  
+#### Trans Amount  
+#### Unique Patients Count-Trans Fact  
+#### Unique Patients Count-Visits Fact  
+#### Visits w transactions  
+#### Work RVU  
+#### Work RVU per Patient  
 
