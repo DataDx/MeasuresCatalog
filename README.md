@@ -44,9 +44,9 @@ List report update frequency
 ### Glossary
 
 #### Charges  
-Charges definition  
+The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
-Charges per Provider definition  
+[Charges](#charges) divided by [Provider](#provider)  
 #### Charges per Total RVU  
 Charges per Total RVU definition  
 #### Charges per Visit  
