@@ -67,6 +67,7 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### distinctPatienAlt  
 #### Established Patient Visits  
 #### Expenses  
+Expenses from all sources  
 #### Expenses per Provider  
 #### Expenses per Total RVU  
 #### Expenses Per Visit  
