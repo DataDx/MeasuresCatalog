@@ -53,6 +53,7 @@ List report update frequency
 #### Adjustments per Visit  
 #### Adjustments per Work RVU  
 #### Charges  
+The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
 [Charges](#charges) divided by [Provider](#provider)  
 #### Charges per Total RVU  
