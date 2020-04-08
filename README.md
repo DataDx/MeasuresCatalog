@@ -74,6 +74,7 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Malpractice RVU 
 Account for the cost of malpractice insurance for the physician and/or the practice  
 #### Net Collections  
+A measure of a medical practice's effectiveness in collecting reimbursement dollars. It's calculated by dividing payments received from agreed-upon fees charged  
 #### Net Collections per Patient  
 #### Net Collections per Provider  
 #### Net Collections per Total RVU  
