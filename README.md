@@ -123,5 +123,6 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Unique Patients Count-Visits Fact  
 #### Visits w transactions  
 #### Work RVU  
+Calculated based on an estimate of time and effort expended by a provider in performing the procedure or delivering the service associated to the specific procedure code  
 #### Work RVU per Patient  
 
