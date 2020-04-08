@@ -100,10 +100,13 @@ Number of visits of patients whom have not received any professional services fr
 #### Patient Visits  
 #### Patients per Day  
 #### Practice Expense RVU  
-Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves  
+Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves    
 #### Professional Collections  
+RVUs are factors used to determine physician fees for services provided to people insured by Medicare B    
 #### Professional Collections per Total RVU  
+See Professional Collections   
 #### Professional Collections per Work RVU  
+See Professional Collections  
 #### Provider  
 #### PY Charges  
 #### PY Charges per Provider  
