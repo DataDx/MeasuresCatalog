@@ -115,6 +115,7 @@ See Professional Collections
 #### PY Charges per Visit  
 #### PY Charges per WorkRVU  
 #### PY Expenses  
+[Expenses](#expenses) - 1 year  
 #### PY Expenses Lenthy  
 #### PY Expenses per Provider  
 #### PY Expenses per Total RVU  
