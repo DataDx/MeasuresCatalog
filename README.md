@@ -71,7 +71,8 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Expenses per Total RVU  
 #### Expenses Per Visit  
 #### Expenses per Work RVU  
-#### Malpractice RVU  
+#### Malpractice RVU 
+Account for the cost of malpractice insurance for the physician and/or the practice  
 #### Net Collections  
 #### Net Collections per Patient  
 #### Net Collections per Provider  
