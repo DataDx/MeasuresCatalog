@@ -91,6 +91,7 @@ A measure of a medical practice's effectiveness in collecting reimbursement doll
 #### Net GL Amount  
 The Sum of Credit Amount and Debit Amount for a particular General Ledger account.  
 #### Net Income  
+Calculated as revenues minus expenses, interest, and taxes  
 #### New & Established Patient Visits  
 New Patient Visits + Established Patient Visits  
 #### New Patient Visits  
