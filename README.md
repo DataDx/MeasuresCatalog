@@ -79,16 +79,23 @@ List report update frequency
 [Charges per Visit](#charges-per-visit)  
 [Charges per WorkRVU](#charges-per-workrvu)  
 [CPT Code](#cpt-code)  
+[Expenses per Provider](#expenses-per-provider)  
+[Expenses per Visit](#expenses-per-visit)  
+[Expenses per Work RVU](#expenses-per-work-rvu) 
 [Expenses](#expenses)  
 [Location Name](#location-name)  
+[Net Collections per Provider](#net-collections-per-provider)  
+[Net Collections per Total RVU](#net-collections-per-total-rvu)  
+[Net Collections per Visit](#net-collections-per-visit)  
+[Net Collections per Work RVU](#net-collections-per-work-rvu)  
 [Net Collections](#net-collections)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
-[PY Charges](#py-charges)  
 [PY Charges per Provider](#py-charges-per-provider)  
 [PY Charges per Total RVU](#py-charges-per-total-rvu)  
 [PY Charges per Visit](#py-charges-per-visit)  
-[PY Charges per WorkRVU](#py-charges-per-workrvu)  
+[PY Charges per Work RVU](#py-charges-per-work-rvu)  
+[PY Charges](#py-charges)  
 
 ### Glossary
 
@@ -204,7 +211,7 @@ RVUs are factors used to determine physician fees for services provided to peop
 #### Total Visit Work RVU  
 #### Trans Amount  
 #### Transaction Voided  
-#### Units Charged #### Unique Patients Count-Trans Fact  
+#### Unique Patients Count-Trans Fact  
 #### Unique Patients Count-Visits Fact  
 #### Units Charged 
 #### Visits w transactions  
