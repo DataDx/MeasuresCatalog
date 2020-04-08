@@ -65,6 +65,7 @@ The amount of money a doctor or supplier charges for a certain medical service o
 A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
 #### Days Worked  
 #### Debit Amount  
+A debit is an accounting entry that either increases an asset or expense account, or decreases a liability or equity account.  
 #### distinctPatienAlt  
 #### Established Patient Visits  
 #### Expenses  
