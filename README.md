@@ -97,6 +97,41 @@ List report update frequency
 [PY Charges per Work RVU](#py-charges-per-work-rvu)  
 [PY Charges](#py-charges)  
 
+### Income Statement  
+**Measure Description**  
+Income Statement Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[CalenderYearMonth](#calenderyearmonth)  
+[CalenderYearQuarter](#calenderyearquarter)  
+[Client Account Name](#client-account-name)  
+[DataDx Rollup Account](#datadx-rollup-account)  
+[Expenses](#expenses)  
+[Location Name](#location-name)  
+[Net GL Amount](#net-gl-amount)  
+[Net Income](#net-income)  
+[Provider Name](#provider-name)  
+[Provider Specialty](#provider-specialty)  
+[Revenue](#revenue) 
+
+### Monthly Statement  
+**Measure Description**  
+Monthly Statement Description  
+**Default Date Range**  
+Current Calender Year Month  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+
+
+
 ### Glossary
 
 #### % Adjustments to Charges  
@@ -156,7 +191,8 @@ A measure of a medical practice's effectiveness in collecting reimbursement doll
 #### Net GL Amount  
 The Sum of Credit Amount and Debit Amount for a particular General Ledger account.  
 #### Net Income  
-Calculated as revenues minus expenses, interest, and taxes  
+Calculated as revenues minus expenses, interest, and taxes.  
+[Revenue](#revenue) minus [Expenses](#expenses)  
 #### New & Established Patient Visits  
 New Patient Visits + Established Patient Visits  
 #### New Patient Visits  
@@ -186,7 +222,7 @@ The rendering provider.
 #### PY Charges per Visit  
 #### PY Charges per WorkRVU  
 #### PY Expenses  
-[Expenses](#expenses) - 1 year  
+[Expenses](#expenses) minus 1 year  
 #### PY Expenses Lenthy  
 #### PY Expenses per Provider  
 #### PY Expenses per Total RVU  
