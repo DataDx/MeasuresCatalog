@@ -26,14 +26,14 @@ List data source
 **Update Frequency**  
 List report update frequency  
 **Fields and Definitions (click for definition)**  
-[% Adjustments to Charges](#%-adjustments-to-charges)
-[Adjustments](#adjustments)
-[CPT Code](#cpt-code)
-[DataDxPayorGroup](#datadxpayorgroup)
-[Department](#department)
-[Facility](#facility)
-[Provider](#provider)
-[Specialty](#specialty)
+[% Adjustments to Charges](#-adjustments-to-charges)  
+[Adjustments](#adjustments-1)  
+[CPT Code](#cpt-code)  
+[DataDxPayorGroup](#datadxpayorgroup)  
+[Department](#department)  
+[Facility](#facility)  
+[Provider](#provider)  
+[Specialty](#specialty)  
 
 ### Financial Performance  
 **Measure Description**  
