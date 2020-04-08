@@ -141,6 +141,22 @@ Daily
 [Total RVU](#total-rvu)  
 [Work RVU](#work-rvu)  
 
+### Patients  
+**Measure Description**  
+Patients Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[CPT Code](#cpt-code)  
+[Location Name](#location-name)  
+[Patient Age Category](#patient-age-category)  
+[Patient Visits](#patient-visits)  
+[Provider Name](#provider-name)  
+[Provider Specialty](#provider-specialty)  
 
 
 ### Glossary
@@ -211,6 +227,8 @@ Number of visits of patients whom have not received any professional services fr
 #### No Charge Patient Visits  
 #### NoChargeVisitFact  
 #### Outstanding Balance  
+#### Patient Age Category  
+Patient age categories are 19 & less, 20-39, 40-59, 60-64, and over 64. 
 #### Patient Visits  
 #### Patients per Day  
 #### Payor  
