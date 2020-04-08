@@ -62,6 +62,7 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Charges per Visit  
 #### Charges per WorkRVU  
 #### Credit Amount  
+A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
 #### Days Worked  
 #### Debit Amount  
 #### distinctPatienAlt  
