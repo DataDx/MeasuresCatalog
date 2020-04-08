@@ -91,6 +91,7 @@ The Sum of Credit Amount and Debit Amount for a particular General Ledger accoun
 #### Net Income  
 #### New & Established Patient Visits  
 #### New Patient Visits  
+Number of visits of patients whom have not received any professional services from the physician, or another physician of the same specialty who belongs to the same group practice, within the past three years  
 #### No Charge Patient Visits  
 #### NoChargeVisitFact  
 #### Patient Visits  
