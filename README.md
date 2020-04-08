@@ -4,12 +4,17 @@
 
 | Measure Name    | Description               |
 | -------------  |-------------              |
-| [Financial Performance](#financial-performance)           | Financial Performance - Charges Measure Description         |
-| [Total Patient Visits at Date of Service](#total-patient-visits-at-date-of-service)      | Total Patient Visits at Date of Service Description   |
-| [Visit Codes and Trends](#visit-codes-and-trends)         | Visit Codes and Trends Description        |
+| [Adjustments](#adjustments)           | Adjustments Measure Description. Contains total ajustments per CPT code.        |
+| [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Measure Description   |
+| [Financial Performance](#financial-performance)         | Financial Performance Measure Description        |
+| [Income Statement](#income-statement)         | Income Statement Measure Description        |
+| [Monthly Statement](#monthly-statement)         | Monthly Statement Measure Description        |
+| [Patients](#patients)         | Patients Measure Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
-| [Monthly Summary](#monthly-summary)        | Monthly Summary Description        |
+| [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
+| [Provider Benchmarks](#provider-benchmarks)        | Physician Compensation Description        |
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
+| [Visits](#visits)         | Visits Measure Description        |
 
 
 ### Financial Performance  
