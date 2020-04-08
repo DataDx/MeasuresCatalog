@@ -122,6 +122,7 @@ Accounts for the labor and expenses of the practice itself, like the office, sta
 #### PY Visit w Transactions  
 #### PY Visits-Trans Lengthy  
 #### Revenue  
+Income, especially when of a company or organization and of a substantial nature  
 #### Total RVU  
 #### Total RVU per Patient  
 #### Total Visit Charges  
