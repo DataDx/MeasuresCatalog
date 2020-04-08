@@ -90,6 +90,7 @@ Account for the cost of malpractice insurance for the physician and/or the pract
 #### Patient Visits  
 #### Patients per Day  
 #### Practice Expense RVU  
+Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves  
 #### Professional Collections  
 #### Professional Collections per Total RVU  
 #### Professional Collections per Work RVU  
