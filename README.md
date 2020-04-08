@@ -50,6 +50,7 @@ List report update frequency
 #### Accounts Receivable
 Provides the information regarding the age of your practice's accounts receivable (to the nearest whole dollar). Does not include accounts that have been assigned to collection agencies.  
 #### Adjustments  
+Adjustments, or write-off's, are the dollars that are adjusted off a patient account for any reason. The Contractual Adjustment is the most common type of adjustment.  
 #### Adjustments per Provider  
 #### Adjustments per Total RVU  
 #### Adjustments per Visit  
