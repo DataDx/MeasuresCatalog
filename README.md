@@ -4,7 +4,7 @@
 
 | Measure Name    | Description               |
 | -------------  |-------------              |
-| [Adjustments](#adjustments)           | Adjustments Measure Description. Contains total ajustments per CPT code.        |
+| [Adjustments](#adjustments)           | Adjustments Measure Description. Contains total adjustments per CPT code.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Measure Description   |
 | [Financial Performance](#financial-performance)         | Financial Performance Measure Description        |
 | [Income Statement](#income-statement)         | Income Statement Measure Description        |
@@ -24,7 +24,7 @@ Last 12 months
 **Original Data Source**  
 List data source  
 **Update Frequency**  
-List report update frequency  
+Daily  
 **Fields and Definitions (click for definition)**  
 [% Adjustments to Charges](#-adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
@@ -34,6 +34,32 @@ List report update frequency
 [Facility](#facility)  
 [Provider](#provider)  
 [Specialty](#specialty)  
+
+### Accounts Receivable Aging  
+**Measure Description**  
+Accounts Receivable Aging Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[Amount Adjusted](#amount-adjusted)  
+[Amount Charged](#amount-charged)  
+[Amount Collected](#amount-collected)  
+[Client ID](#client-id)  
+[CPT Code](#cpt-code)  
+[Days Since Last Billed](#days-since-last-billed)  
+[Month Posted](#month-posted)  
+[Outstanding Balance](#outstanding-balance)  
+[Payor](#payor)  
+[Percent Adjusted ](#percent-adjusted-)  
+[Percent Outstanding](#percent-outstanding)  
+[Primary Insurance](#primary-insurance)  
+[Service Date](#service-date)  
+[Transaction Voided](#transaction-voided)  
+[Units Charged](#units-charged)  
 
 ### Financial Performance  
 **Measure Description**  
@@ -78,6 +104,9 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 #### Adjustments per Total RVU  
 #### Adjustments per Visit  
 #### Adjustments per Work RVU  
+#### Amount Adjusted  
+#### Amount Charged  
+#### Amount Collected  
 #### Charges  
 The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
@@ -85,10 +114,13 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Charges per Total RVU  
 #### Charges per Visit  
 #### Charges per WorkRVU  
+#### Client ID  
+#### CPT Code  
 #### Credit Amount  
 A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
 #### DataDxPayorGroup  
 Payor type, e.g., Medicaid, Medicare, Commercial. 
+#### Days Since Last Billed  
 #### Days Worked  
 The number of days worked by provider(s) in the practice.  
 #### Debit Amount  
@@ -103,7 +135,8 @@ Expenses from all sources
 #### Expenses Per Visit  
 #### Expenses per Work RVU  
 #### Malpractice RVU 
-Account for the cost of malpractice insurance for the physician and/or the practice  
+Account for the cost of malpractice insurance for the physician and/or the practice.  
+#### Month Posted  
 #### Net Collections  
 A measure of a medical practice's effectiveness in collecting reimbursement dollars. It's calculated by dividing payments received from agreed-upon fees charged  
 #### Net Collections per Patient  
@@ -123,10 +156,15 @@ New Patient Visits + Established Patient Visits
 Number of visits of patients whom have not received any professional services from the physician, or another physician of the same specialty who belongs to the same group practice, within the past three years  
 #### No Charge Patient Visits  
 #### NoChargeVisitFact  
+#### Outstanding Balance  
 #### Patient Visits  
 #### Patients per Day  
+#### Payor  
+#### Percent Adjusted   
+#### Percent Outstanding  
 #### Practice Expense RVU  
-Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves    
+Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves.  
+#### Primary Insurance  
 #### Professional Collections  
 RVUs are factors used to determine physician fees for services provided to people insured by Medicare B    
 #### Professional Collections per Total RVU  
@@ -156,7 +194,8 @@ The rendering provider.
 #### PY Visit w Transactions  
 #### PY Visits-Trans Lengthy  
 #### Revenue  
-Income, especially when of a company or organization and of a substantial nature  
+Income, especially when of a company or organization and of a substantial nature.  
+#### Service Date  
 #### Total RVU  
 #### Total RVU per Patient  
 RVUs are factors used to determine physician fees for services provided to people insured by Medicare B  
@@ -164,8 +203,10 @@ RVUs are factors used to determine physician fees for services provided to peop
 #### Total Visit Net Collections  
 #### Total Visit Work RVU  
 #### Trans Amount  
-#### Unique Patients Count-Trans Fact  
+#### Transaction Voided  
+#### Units Charged #### Unique Patients Count-Trans Fact  
 #### Unique Patients Count-Visits Fact  
+#### Units Charged 
 #### Visits w transactions  
 #### Work RVU  
 Calculated based on an estimate of time and effort expended by a provider in performing the procedure or delivering the service associated to the specific procedure code  
