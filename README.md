@@ -16,6 +16,24 @@
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
 | [Visits](#visits)         | Visits Measure Description        |
 
+### Adjustments  
+**Measure Description**  
+Adjustments Measure Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+List report update frequency  
+**Fields and Definitions (click for definition)**  
+[% Adjustments to Charges](#%-adjustments-to-charges)
+[Adjustments](#adjustments)
+[CPT Code](#cpt-code)
+[DataDxPayorGroup](#datadxpayorgroup)
+[Department](#department)
+[Facility](#facility)
+[Provider](#provider)
+[Specialty](#specialty)
 
 ### Financial Performance  
 **Measure Description**  
@@ -69,6 +87,8 @@ The amount of money a doctor or supplier charges for a certain medical service o
 #### Charges per WorkRVU  
 #### Credit Amount  
 A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
+#### DataDxPayorGroup  
+Payor type, e.g., Medicaid, Medicare, Commercial. 
 #### Days Worked  
 The number of days worked by provider(s) in the practice.  
 #### Debit Amount  
@@ -114,6 +134,7 @@ See Professional Collections
 #### Professional Collections per Work RVU  
 See Professional Collections  
 #### Provider  
+The rendering provider. 
 #### PY Charges  
 #### PY Charges per Provider  
 #### PY Charges per Total RVU  
