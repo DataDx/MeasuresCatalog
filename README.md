@@ -128,6 +128,7 @@ Accounts for the labor and expenses of the practice itself, like the office, sta
 Income, especially when of a company or organization and of a substantial nature  
 #### Total RVU  
 #### Total RVU per Patient  
+RVUs are factors used to determine physician fees for services provided to people insured by Medicare B  
 #### Total Visit Charges  
 #### Total Visit Net Collections  
 #### Total Visit Work RVU  
