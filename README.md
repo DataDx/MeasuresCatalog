@@ -44,9 +44,11 @@ List report update frequency
 ### Glossary
 
 #### % Adjustments to Charges  
-#### % Established Visits of New+Established  
-#### % New Visits of New+Established  
+#### % Established Visits of New and Established  
+#### % New Visits of Newand Established  
 #### % Visits by Payor  
+#### Accounts Receivable
+Provides the information regarding the age of your practice's accounts receivable (to the nearest whole dollar). Does not include accounts that have been assigned to collection agencies.  
 #### Adjustments  
 #### Adjustments per Provider  
 #### Adjustments per Total RVU  
