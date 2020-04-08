@@ -68,6 +68,7 @@ A credit is an accounting entry that either increases a liability or equity acco
 A debit is an accounting entry that either increases an asset or expense account, or decreases a liability or equity account.  
 #### distinctPatienAlt  
 #### Established Patient Visits  
+Number of visits of patients whom have received professional services from the physician or another physician in the same group and the same specialty within the prior three years  
 #### Expenses  
 Expenses from all sources  
 #### Expenses per Provider  
