@@ -158,6 +158,40 @@ Daily
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 
+### Payor Analysis  
+**Measure Description**  
+Payor Analysis Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[CalenderYearMonth](#calenderyearmonth)  
+[Charges](#charges)  
+[CPT Code](#cpt-code)  
+[Department](#department)  
+[Location Name](#location-name)  
+[Net Collections](#net-collections)  
+[Patient Visits](#patient-visits)  
+[Payor Group](#payor-group)  
+[Primary Payor on Visit](#primary-payor-on-visit)  
+[Provider Name](#provider-name)  
+[Provider Specialty](#provider-specialty)  
+[Work RVU](#work-rvu) 
+
+### Payor Analysis  
+**Measure Description**  
+Payor Analysis Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+
 
 ### Glossary
 
