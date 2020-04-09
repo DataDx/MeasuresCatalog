@@ -4,7 +4,7 @@
 
 | Measure Name    | Description               |
 | -------------  |-------------              |
-| [Adjustments](#adjustments)           | Adjustments Measure Description. Contains total adjustments per CPT code.        |
+| [Adjustments](#adjustments)           | Adjustments Measure Description. Adjustments per CPT code, percentage adjustments to charges, and total adjustments.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Measure Description   |
 | [Financial Performance](#financial-performance)         | Financial Performance Measure Description        |
 | [Income Statement](#income-statement)         | Income Statement Measure Description        |
@@ -180,7 +180,10 @@ Daily
 [Primary Payor on Visit](#primary-payor-on-visit)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
-[Work RVU](#work-rvu) 
+[Work RVU](#work-rvu)  
+**Example**  
+![](pictures/Payor-Analysis-Report.jpg)  
+
 
 ### Physician Compensation  
 **Measure Description**  
