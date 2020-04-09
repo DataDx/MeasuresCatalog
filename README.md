@@ -17,7 +17,7 @@
 | [Visits](#visits)         | Visits Measure Description        |
 | [Glossary](#glossary)         | All field definitions        |
 
-[Click here to submit feedback or suggestions](https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY)  
+<a href="https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY" target="_blank">Click here to submit feedback or suggestions</a>  
 
 ### Adjustments  
 **Measure Description**  
@@ -492,6 +492,6 @@ Relative Value Units (RVUs) for the "physician work RVUs" only; including any ad
 #### Work RVU per Patient  
 [Work RVU](#work-rvu) / Unique Patient Count  
 
-[Click here to submit feedback or suggestions](https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY)  
+<a href="https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY" target="_blank">Click here to submit feedback or suggestions</a>
 
 
