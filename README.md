@@ -181,9 +181,9 @@ Daily
 [Provider Specialty](#provider-specialty)  
 [Work RVU](#work-rvu) 
 
-### Payor Analysis  
+### Physician Compensation  
 **Measure Description**  
-Payor Analysis Description  
+Physician Compensation Description  
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
@@ -191,7 +191,40 @@ List data source
 **Update Frequency**  
 Daily  
 **Fields and Definitions (click for definition)**  
-
+[Account Name](#account-name)  
+[AllAdjust](#alladjust)  
+[AllCharges](#allcharges)  
+[Buy-In Expense](#buy-in-expense)  
+[Distribution Income](#distribution-income)  
+[Doctor-Specific Expense](#doctor-specific-expense)  
+[Draws](#draws)  
+[Drug Income](#drug-income)  
+[DrugAdjust](#drugadjust)  
+[DrugCharges](#drugcharges)  
+[FinalAmount](#finalamount)  
+[Lab Expense](#lab-expense)  
+[Other Income](#other-income)  
+[Production Adjustments](#production-adjustments)  
+[Production Percent](#production-percent)  
+[Provider Name](#provider-name)  
+[PY Drug Income](#py-drug-income)  
+[PY Expenses](#py-expenses)  
+[PY Income](#py-income)  
+[PY Production Adjustments](#py-production-adjustments)  
+[PY Refunds](#py-refunds)  
+[PY Retained Earnings](#py-retained-earnings)  
+[PY Six Month Sum](#py-six-month-sum)  
+[PY Special Lab](#py-special-lab)  
+[PY Take Home Pay](#py-take-home-pay)  
+[Refund](#refund)  
+[Retained Earnings](#retained-earnings)  
+[Six Month Sum](#six-month-sum)  
+[Standard Expense](#standard-expense)  
+[Special Lab](#special-lab)  
+[Take Home Pay](#take-home-pay)  
+[Total Distribution](#total-distribution)  
+[Total Expenses](#total-expenses)  
+[Total Income](#total-income) 
 
 ### Glossary
 
@@ -210,6 +243,9 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 #### Amount Adjusted  
 #### Amount Charged  
 #### Amount Collected  
+#### Buy-In Expense  
+Some partners have drug buy-ins that are subtracted from their take-home pay and distributed among the other partners.  
+(Drug Expense * [Production Percent](#production-percent)) + Individual Buy-In Amount
 #### Charges  
 The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
@@ -229,6 +265,16 @@ The number of days worked by provider(s) in the practice.
 #### Debit Amount  
 A debit is an accounting entry that either increases an asset or expense account, or decreases a liability or equity account.  
 #### distinctPatienAlt  
+#### Distribution Income  
+Clinic profit available for owner distribution.  
+[Income](#income) - [Expenses](#expenses)  
+#### Doctor-Specific Expense  
+These accounts have specific expenses that need to be directly attributed to the corresponding partner in addition to generic expenses that are split amongst all partners according to production percent.  
+((Generic Expense – Doctor-Specific Expense Total) * [Production Percent](#production-percent)) + Doctor-Specific Expense  
+#### Draws  
+Direct draws against a physician’s Take-Home Pay that fall into the following categories: Health Insurance (Medical, Dental, Vision), Disability Insurance, H.S.A., Pioneer Trust, Retirement, Retirement Savings, Misc (Cafeteria, PAC Donation).  
+#### Drug Income  
+The total amount of income from drugs is distributed according to each partner’s Production Percent.  
 #### Established Patient Visits  
 Number of visits of patients whom have received professional services from the physician or another physician in the same group and the same specialty within the prior three years  
 #### Expenses  
@@ -260,6 +306,9 @@ New Patient Visits + Established Patient Visits
 Number of visits of patients whom have not received any professional services from the physician, or another physician of the same specialty who belongs to the same group practice, within the past three years  
 #### No Charge Patient Visits  
 #### NoChargeVisitFact  
+#### Other Income  
+All transaction payments not related to drugs are distributed according to Production Percent. However, lab payments related to Medicare and Medicaid patients are also be removed and added back in as an equal distribution among all providers.  
+(Non-Drug Payments - [Special Lab](#special-lab) Payments) * [Production Percent](#production-percent)    
 #### Outstanding Balance  
 #### Patient Age Category  
 Patient age categories are 19 & less, 20-39, 40-59, 60-64, and over 64. 
@@ -271,8 +320,15 @@ Patient age categories are 19 & less, 20-39, 40-59, 60-64, and over 64.
 #### Practice Expense RVU  
 Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves.  
 #### Primary Insurance  
+#### Production Adjustments  
+Start with a sum of all non-drug-related transaction charges where the partner was listed as the Patient Responsible Provider, but a different physician was listed as the Provider on Ticket. Then subtract any non-drug-related transactions where the partner was listed as the Provider on Ticket, but a different physician was listed as the Patient Responsible Provider. Add back in any non-drug-related charges where the partner was listed as the Provider on Ticket, and a non-partner was the other physician listed as the Patient Responsible Provider. Finally, any non-drug-related transactions where a non-partner is listed as both the Patient Responsible Provider and the Provider on Ticket is distributed equally among all providers.  
+#### Production Charges  
+Sum of all non-drug-related transactions with the partner listed as the 'Provider on Ticket'.  
+#### Production Percent  
+An estimate of the amount of business that is generated for the clinic by each partner.  It is calculated as the percent of non-drug-related charges that each partner generates.  Charges generated by non-partners are attributed based on the responsible provider in the patient’s record.  If the responsible provider is also not a partner, the charge is distributed equally among all providers.  To avoid one month drastically changing a partner’s production percent, the final production percent is based on the aggregated six month value for an individual partner divided by the aggregated six month value for all partners.  
+Sum of Individual Amounts Over 6 Months / Sum of Total Amounts Over 6 Months  
 #### Professional Collections  
-RVUs are factors used to determine physician fees for services provided to people insured by Medicare B    
+RVUs are factors used to determine physician fees for services provided to people insured by Medicare B.  
 #### Professional Collections per Total RVU  
 See Professional Collections   
 #### Professional Collections per Work RVU  
@@ -299,9 +355,27 @@ The rendering provider.
 #### PY Professional Collections  
 #### PY Visit w Transactions  
 #### PY Visits-Trans Lengthy  
+#### Refund  
+Refund amounts from Sage, allocated by production percent.  
+Refund Amount * [Production Percent](#production-percent)  
+#### Retained Earnings  
+If the clinic decides to retain a certain amount of reserve savings in a month, this total amount is distributed as an expense across all partners according to their production percent. The amount of retained earnings chosen is a combination of a formula based on income and expenses combined with a base amount chosen by OOS staff.  
 #### Revenue  
 Income, especially when of a company or organization and of a substantial nature.  
+#### Six Month Sum  
+The aggregated six month [Production Charges](#production-charges).  
 #### Service Date  
+#### Special Lab  
+Lab expenses related to Medicare & Medicaid are distributed equally among all partners.  
+(Special Lab Expenses * Special Lab Percent) / Number of Partners  
+#### Standard Expense  
+Each expense account that does not have a doctor-specific, lab, or buy-in calculation associated with it is distributed amongst partners according to their production percent.  
+#### Take Home Pay  
+The actual amount that is earned by a physician in a month.  It is a combination of the total amount of income brought in by the partner, minus the total amount of expenses incurred by the clinic on the partner’s behalf.  
+Income - Expenses - [Retained Earnings](#retained-earnings)   - Special Lab - Draws  
+#### Total Distribution  
+Profit minus retained earnings.  
+[Distribution Income](#distribution-income) - [Retained Earnings](#retained-earnings)    
 #### Total RVU  
 #### Total RVU per Patient  
 RVUs are factors used to determine physician fees for services provided to people insured by Medicare B  
