@@ -15,6 +15,7 @@
 | [Provider Benchmarks](#provider-benchmarks)        | Physician Compensation Description        |
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
 | [Visits](#visits)         | Visits Measure Description        |
+| [Glossary](#glossary)         | All field definitions        |
 
 ### Adjustments  
 **Measure Description**  
