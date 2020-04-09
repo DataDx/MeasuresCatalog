@@ -227,6 +227,55 @@ Daily
 [Total Expenses](#total-expenses)  
 [Total Income](#total-income) 
 
+### Provider Productivity  
+**Measure Description**  
+Provider Productivity Description  
+**Default Date Range**  
+Last 6 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[Days Worked](#days-worked)  
+[Department Name](#department-name)  
+[Gross Charges](#gross-charges)  
+[Location Name](#location-name)  
+[Net Collections per Total RVU](#net-collections-per-total-rvu)  
+[Net Collections per Work RVU](#net-collections-per-work-rvu)  
+[Patients](#patients)  
+[Patients per Day](#patients-per-day)  
+[Professional Collections per Total RVU](#professional-collections-per-total-rvu)  
+[Professional Collections per Work RVU](#professional-collections-per-work-rvu)  
+[Provider Name](#provider-name)  
+[Provider Specialty](#provider-specialty)  
+[Total RVU](#total-rvu)  
+[Total RVU per E&M Patient](#total-rvu-per-em-patient)  
+[Work RVU](#work-rvu)  
+[Work RVU per E&M Patient](#work-rvu-per-em-patient)  
+
+### Visits  
+**Measure Description**  
+Visits Measure Description  
+**Default Date Range**  
+Last 12 months  
+**Original Data Source**  
+List data source  
+**Update Frequency**  
+Daily  
+**Fields and Definitions (click for definition)**  
+[% New Visits of New and Established](#new-visits-of-new-and-established)  
+[CalendarYearMonth](#calendaryearmonth)  
+[CPT Code](#cpt-code)  
+[Established Patient Visits](#established-patient-visits)  
+[Location Name](#location-name)  
+[Net Collections](#net-collections)  
+[New Patient Visits](#new-patient-visits)  
+[No Charge Visits](#no-charge-visits)  
+[Provider Name](#provider-name)  
+[Provider Specialty](#provider-specialty)  
+[Total Visits](#total-visits)  
+
 ### Glossary
 
 #### % Adjustments to Charges  
