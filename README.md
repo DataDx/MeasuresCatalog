@@ -188,7 +188,7 @@ Daily
 **Measure Description**  
 Physician Compensation Description  
 **Default Date Range**  
-Last 12 months  
+Current month  
 **Original Data Source**  
 List data source  
 **Update Frequency**  
@@ -284,18 +284,20 @@ Daily
 #### % Established Visits of New and Established  
 #### % New Visits of Newand Established  
 #### % Visits by Payor  
+#### Account Name  
+Name of the account, e.g., Payroll, Lab Equipment, Supplies, Marketing.  
 #### Accounts Receivable
 Provides the information regarding the age of your practice's accounts receivable (to the nearest whole dollar). Does not include accounts that have been assigned to collection agencies.  
 #### Adjustments  
 Adjustments, or write-off's, are the dollars that are adjusted off a patient account for any reason. The Contractual Adjustment is the most common type of adjustment.  
 #### Adjustments per Provider  
-[Adjustments](#adjustments) / [Provider](#provider)  
+[Adjustments](#adjustments-1) / [Provider](#provider)  
 #### Adjustments per Total RVU  
-[Adjustments](#adjustments) / [Total RVU](#total-rvu)  
+[Adjustments](#adjustments-1) / [Total RVU](#total-rvu)  
 #### Adjustments per Visit  
-[Adjustments](#adjustments) / [Visit](#visit)  
+[Adjustments](#adjustments-1) / [Visit](#visit)  
 #### Adjustments per Work RVU  
-[Adjustments](#adjustments) / [Work RVU](#work-rvu)  
+[Adjustments](#adjustments-1) / [Work RVU](#work-rvu)  
 #### Amount Adjusted  
 #### Amount Charged  
 #### Amount Collected  
