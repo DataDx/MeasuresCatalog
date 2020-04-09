@@ -290,9 +290,13 @@ Provides the information regarding the age of your practice's accounts receivabl
 #### Adjustments  
 Adjustments, or write-off's, are the dollars that are adjusted off a patient account for any reason. The Contractual Adjustment is the most common type of adjustment.  
 #### Adjustments per Provider  
+[Adjustments](#adjustments) / [Provider](#provider)  
 #### Adjustments per Total RVU  
+[Adjustments](#adjustments) / [Total RVU](#total-rvu)  
 #### Adjustments per Visit  
+[Adjustments](#adjustments) / [Visit](#visit)  
 #### Adjustments per Work RVU  
+[Adjustments](#adjustments) / [Work RVU](#work-rvu)  
 #### Amount Adjusted  
 #### Amount Charged  
 #### Amount Collected  
@@ -302,10 +306,13 @@ Some partners have drug buy-ins that are subtracted from their take-home pay and
 #### Charges  
 The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
-[Charges](#charges) divided by [Provider](#provider)  
-#### Charges per Total RVU  
+[Charges](#charges) / [Provider](#provider)  
+#### Charges per TotalRVU  
+[Charges](#charges) / [Total RVU](#total-rvu)  
 #### Charges per Visit  
+[Charges](#charges) / [Visit](#visit)  
 #### Charges per WorkRVU  
+[Charges](#charges) / [WorkRVU](#work-rvu)  
 #### Client ID  
 #### CPT Code  
 #### Credit Amount  
@@ -333,21 +340,28 @@ Number of visits of patients whom have received professional services from the p
 #### Expenses  
 Expenses from all sources  
 #### Expenses per Provider  
+[Expenses](#expenses) / [Provider](#provider)  
 #### Expenses per Total RVU  
+[Expenses](#expenses) / [RVU](#total-rvu)  
 #### Expenses Per Visit  
+[Expenses](#expenses) / [Visit](#visit)  
 #### Expenses per Work RVU  
+[Expenses](#expenses) / [RVU](#work-rvu)  
 #### Malpractice RVU 
 Account for the cost of malpractice insurance for the physician and/or the practice.  
 #### Month Posted  
 #### Net Collections  
 A measure of a medical practice's effectiveness in collecting reimbursement dollars. It's calculated by dividing payments received from agreed-upon fees charged  
 #### Net Collections per Patient  
+[Net Collections](#net-collections) / [Patient](#patient)  
 #### Net Collections per Provider  
+[Net Collections](#net-collections) / [Provider](#provider)  
 #### Net Collections per Total RVU  
-#### Net Collections per totalRVU  
+[Net Collections](#net-collections) / [Total RVU](#total-rvu)  
 #### Net Collections per Visit  
+[Net Collections](#net-collections) / [Visit](#visit)  
 #### Net Collections per Work RVU  
-#### Net Collections per WorkRVU  
+[Net Collections](#net-collections) / [Work RVU](#work-rvu)  
 #### Net GL Amount  
 The Sum of Credit Amount and Debit Amount for a particular General Ledger account.  
 #### Net Income  
@@ -389,13 +403,17 @@ See Professional Collections
 #### Provider  
 The rendering provider. 
 #### PY Charges  
+[Charges](#charges) - 1 year  
 #### PY Charges per Provider  
+([Charges](#charges) - 1 year) / [Provider](#provider)  
 #### PY Charges per Total RVU  
+([Charges](#charges) - 1 year) / [Total RVU](#total-rvu)  
 #### PY Charges per Visit  
+([Charges](#charges) - 1 year) / [Visit](#visit)  
 #### PY Charges per WorkRVU  
+([Charges](#charges) - 1 year) / [Work RVU](#work-rvu)  
 #### PY Expenses  
-[Expenses](#expenses) minus 1 year  
-#### PY Expenses Lenthy  
+[Expenses](#expenses) - 1 year  
 #### PY Expenses per Provider  
 #### PY Expenses per Total RVU  
 #### PY Expenses per Visit  
@@ -407,7 +425,6 @@ The rendering provider.
 #### PY Net Collections per Work RVU  
 #### PY Professional Collections  
 #### PY Visit w Transactions  
-#### PY Visits-Trans Lengthy  
 #### Refund  
 Refund amounts from Sage, allocated by production percent.  
 Refund Amount * [Production Percent](#production-percent)  
