@@ -108,8 +108,8 @@ List data source
 **Update Frequency**  
 Daily  
 **Fields and Definitions (click for definition)**  
-[CalenderYearMonth](#calenderyearmonth)  
-[CalenderYearQuarter](#calenderyearquarter)  
+[CalendarYearMonth](#calendaryearmonth)  
+[CalendarYearQuarter](#calendaryearquarter)  
 [Client Account Name](#client-account-name)  
 [DataDx Rollup Account](#datadx-rollup-account)  
 [Expenses](#expenses)  
@@ -302,6 +302,8 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 #### Buy-In Expense  
 Some partners have drug buy-ins that are subtracted from their take-home pay and distributed among the other partners.  
 (Drug Expense * [Production Percent](#production-percent)) + Individual Buy-In Amount  
+#### CalendarYearQuarter  
+Used to show trends over time by quarter.  
 #### CalendarYearMonth  
 Used to show trends over time by month.  
 #### Charges  
