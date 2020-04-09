@@ -12,7 +12,7 @@
 | [Patients](#patients)         | Patients Measure Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
 | [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
-| [Provider Benchmarks](#provider-benchmarks)        | Physician Compensation Description        |
+| [Provider Benchmarks](#provider-benchmarks)        | Provider Benchmarks Description        |
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
 | [Visits](#visits)         | Visits Measure Description        |
 | [Glossary](#glossary)         | All field definitions        |
@@ -177,7 +177,6 @@ Daily
 [Net Collections](#net-collections)  
 [Patient Visits](#patient-visits)  
 [Payor Group](#payor-group)  
-[Primary Payor on Visit](#primary-payor-on-visit)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 [Work RVU](#work-rvu)  
@@ -302,7 +301,9 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 #### Amount Collected  
 #### Buy-In Expense  
 Some partners have drug buy-ins that are subtracted from their take-home pay and distributed among the other partners.  
-(Drug Expense * [Production Percent](#production-percent)) + Individual Buy-In Amount
+(Drug Expense * [Production Percent](#production-percent)) + Individual Buy-In Amount  
+#### CalendarYearMonth  
+Used to show trends over time by month.  
 #### Charges  
 The amount of money a doctor or supplier charges for a certain medical service or supply.  
 #### Charges per Provider  
@@ -315,6 +316,7 @@ The amount of money a doctor or supplier charges for a certain medical service o
 [Charges](#charges) / [WorkRVU](#work-rvu)  
 #### Client ID  
 #### CPT Code  
+Current Procedural Terminology (CPT) is a medical code set that is used to report medical, surgical, and diagnostic procedures and services to entities such as physicians, health insurance companies and accreditation organizations.  
 #### Credit Amount  
 A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
 #### DataDxPayorGroup  
@@ -324,7 +326,8 @@ Payor type, e.g., Medicaid, Medicare, Commercial.
 The number of days worked by provider(s) in the practice.  
 #### Debit Amount  
 A debit is an accounting entry that either increases an asset or expense account, or decreases a liability or equity account.  
-#### distinctPatienAlt  
+#### Department  
+The specific department of the practice, e.g., Dermatology, Ophthalmology, Pediatrics.    
 #### Distribution Income  
 Clinic profit available for owner distribution.  
 [Income](#income) - [Expenses](#expenses)  
@@ -347,6 +350,8 @@ Expenses from all sources
 [Expenses](#expenses) / [Visit](#visit)  
 #### Expenses per Work RVU  
 [Expenses](#expenses) / [RVU](#work-rvu)  
+#### Location Name  
+The location where service was rendered, e.g., Surgery, Hospital, Clinic.  
 #### Malpractice RVU 
 Account for the cost of malpractice insurance for the physician and/or the practice.  
 #### Month Posted  
@@ -380,8 +385,12 @@ All transaction payments not related to drugs are distributed according to Produ
 #### Patient Age Category  
 Patient age categories are 19 & less, 20-39, 40-59, 60-64, and over 64. 
 #### Patient Visits  
+An instance of direct provider to patient interaction, regardless of setting (including tele-visits and e-visits), between a patient and a healthcare provider who is vested with the primary responsibility of diagnosing, evaluating, and/or treating the patient's condition, where the provider exercises clinical judgment that may or may not be billable.  
 #### Patients per Day  
 #### Payor  
+The type of Payor, e.g., Medicare, Medicaid, Commercial, Private Pay.  
+#### Payor Group  
+A selection of one or more [Payor](#payor)/s  
 #### Percent Adjusted   
 #### Percent Outstanding  
 #### Practice Expense RVU  
@@ -401,7 +410,11 @@ Sum of Individual Amounts Over 6 Months / Sum of Total Amounts Over 6 Months
 #### Professional Collections per Work RVU  
 [Net Collections](#net-collections) / [Work RVU](#work-rvu)  
 #### Provider  
-The rendering provider. 
+The rendering provider.  
+#### Provider Name  
+A selection of one or more providers to view in a measure.  
+#### Provider Specialty  
+The specialty of the provider, e.g., Pediatric, Dental, Skin.  
 #### PY Charges  
 [Charges](#charges) - 1 year  
 #### PY Charges per Provider  
@@ -456,8 +469,9 @@ Income - Expenses - [Retained Earnings](#retained-earnings)   - Special Lab - Dr
 Profit minus retained earnings.  
 [Distribution Income](#distribution-income) - [Retained Earnings](#retained-earnings)    
 #### Total RVU  
+Relative Value Units (RVUs) for the "physician work RVUs," "practice expense," and "malpractice RVUs," including any adjustments made as a result of modifier usage.  
 #### Total RVU per Patient  
-RVUs are factors used to determine physician fees for services provided to people insured by Medicare B  
+[Total RVU](#total-rvu) / Unique Patient Count
 #### Total Visit Charges  
 #### Total Visit Net Collections  
 #### Total Visit Work RVU  
@@ -468,6 +482,7 @@ RVUs are factors used to determine physician fees for services provided to peop
 #### Units Charged 
 #### Visits w transactions  
 #### Work RVU  
-Calculated based on an estimate of time and effort expended by a provider in performing the procedure or delivering the service associated to the specific procedure code  
+Relative Value Units (RVUs) for the "physician work RVUs" only; including any adjustments made as a result of modifier usage. A work relative value unit (wRVU) is a non-monetary unit of measure that indicates the professional value of services provided by a physician or allied healthcare professional.  
 #### Work RVU per Patient  
+[Work RVU](#work-rvu) / Unique Patient Count
 
