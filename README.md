@@ -283,7 +283,9 @@ Daily
 ### Glossary
 
 #### % Adjustments to Charges  
+[Adjustments](#adjustments-1) / [Charges](#charges)
 #### % Established Visits of New and Established  
+
 #### % New Visits of Newand Established  
 #### % Visits by Payor  
 #### Account Name  
@@ -320,14 +322,16 @@ The amount of money a doctor or supplier charges for a certain medical service o
 [Charges](#charges) / [Visit](#visit)  
 #### Charges per WorkRVU  
 [Charges](#charges) / [WorkRVU](#work-rvu)  
-#### Client ID  
+#### Client ID 
+Internal DataDx unique identifier for a client.
 #### CPT Code  
 Current Procedural Terminology (CPT) is a medical code set that is used to report medical, surgical, and diagnostic procedures and services to entities such as physicians, health insurance companies and accreditation organizations.  
 #### Credit Amount  
 A credit is an accounting entry that either increases a liability or equity account, or decreases an asset or expense account.  
 #### DataDxPayorGroup  
-Payor type, e.g., Medicaid, Medicare, Commercial. 
+Internal DataDx Payor type, e.g., Medicaid, Medicare, Commercial. 
 #### Days Since Last Billed  
+Number of days since a charge has been billed.
 #### Days Worked  
 The number of days worked by provider(s) in the practice.  
 #### Debit Amount  
@@ -388,11 +392,13 @@ Number of visits of patients whom have not received any professional services fr
 All transaction payments not related to drugs are distributed according to Production Percent. However, lab payments related to Medicare and Medicaid patients are also be removed and added back in as an equal distribution among all providers.  
 (Non-Drug Payments - [Special Lab](#special-lab) Payments) * [Production Percent](#production-percent)    
 #### Outstanding Balance  
+Balance remaining from [Charges](#charges) after removing [Adjustments](#adjustments-1) and [Payments](#payments)
 #### Patient Age Category  
 Patient age categories are 19 & less, 20-39, 40-59, 60-64, and over 64. 
 #### Patient Visits  
 An instance of direct provider to patient interaction, regardless of setting (including tele-visits and e-visits), between a patient and a healthcare provider who is vested with the primary responsibility of diagnosing, evaluating, and/or treating the patient's condition, where the provider exercises clinical judgment that may or may not be billable.  
 #### Patients per Day  
+[Patients]() / [Days Worked](#days-worked)
 #### Payor  
 The type of Payor, e.g., Medicare, Medicaid, Commercial, Private Pay.  
 #### Payor Group  
@@ -402,6 +408,7 @@ A selection of one or more [Payor](#payor)/s
 #### Practice Expense RVU  
 Accounts for the labor and expenses of the practice itself, like the office, staff, materials, and equipment. Generally, medical services that happen in a hospital have a lower practice expense RVU than those that happen in offices or clinics, because hospitals will incur some expenses themselves.  
 #### Primary Insurance  
+Payor responsible for the charge made.
 #### Production Adjustments  
 Start with a sum of all non-drug-related transaction charges where the partner was listed as the Patient Responsible Provider, but a different physician was listed as the Provider on Ticket. Then subtract any non-drug-related transactions where the partner was listed as the Provider on Ticket, but a different physician was listed as the Patient Responsible Provider. Add back in any non-drug-related charges where the partner was listed as the Provider on Ticket, and a non-partner was the other physician listed as the Patient Responsible Provider. Finally, any non-drug-related transactions where a non-partner is listed as both the Patient Responsible Provider and the Provider on Ticket is distributed equally among all providers.  
 #### Production Charges  
@@ -463,6 +470,7 @@ Income, especially when of a company or organization and of a substantial nature
 #### Six Month Sum  
 The aggregated six month [Production Charges](#production-charges).  
 #### Service Date  
+Date service was rendered.
 #### Special Lab  
 Lab expenses related to Medicare & Medicaid are distributed equally among all partners.  
 (Special Lab Expenses * Special Lab Percent) / Number of Partners  
@@ -482,7 +490,9 @@ Relative Value Units (RVUs) for the "physician work RVUs," "practice expense," a
 #### Total Visit Net Collections  
 #### Total Visit Work RVU  
 #### Trans Amount  
+Total USD amount in a transaction.
 #### Transaction Voided  
+Flag indicating that a transaction is voided.
 #### Unique Patients Count-Trans Fact  
 #### Unique Patients Count-Visits Fact  
 #### Units Charged 
