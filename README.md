@@ -2,7 +2,7 @@
 
 # DataDx Measures Catalog 
 
-| Measure Name    | Description               |
+| Report Name    | Description               |
 | -------------  |-------------              |
 | [Adjustments](#adjustments)           | Adjustments Measure Description. Adjustments per CPT code, percentage adjustments to charges, and total adjustments.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Measure Description   |
