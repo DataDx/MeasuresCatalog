@@ -4,24 +4,24 @@
 
 | Report Name    | Description               |
 | -------------  |-------------              |
-| [Adjustments](#adjustments)           | Adjustments Measure Description. Adjustments per CPT code, percentage adjustments to charges, and total adjustments.        |
-| [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Measure Description   |
-| [Financial Performance](#financial-performance)         | Financial Performance Measure Description        |
-| [Income Statement](#income-statement)         | Income Statement Measure Description        |
-| [Monthly Statement](#monthly-statement)         | Monthly Statement Measure Description        |
-| [Patients](#patients)         | Patients Measure Description        |
+| [Adjustments](#adjustments)           | Adjustments Report Description. Adjustments per CPT code, percentage adjustments to charges, and total adjustments.        |
+| [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Report Description   |
+| [Financial Performance](#financial-performance)         | Financial Performance Report Description        |
+| [Income Statement](#income-statement)         | Income Statement Report Description        |
+| [Monthly Statement](#monthly-statement)         | Monthly Statement Report Description        |
+| [Patients](#patients)         | Patients Report Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
 | [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
 | [Provider Benchmarks](#provider-benchmarks)        | Provider Benchmarks Description        |
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
-| [Visits](#visits)         | Visits Measure Description        |
+| [Visits](#visits)         | Visits Report Description        |
 | [Glossary](#glossary)         | All field definitions        |
 
 <a href="https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY" target="_blank">Click here to submit feedback or suggestions</a>  
 
 ### Adjustments  
-**Measure Description**  
-Adjustments Measure Description  
+**Report Description**  
+Adjustments Report Description  
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
@@ -39,7 +39,7 @@ Daily
 [Specialty](#specialty)  
 
 ### Accounts Receivable Aging  
-**Measure Description**  
+**Report Description**  
 Accounts Receivable Aging Description  
 **Default Date Range**  
 Last 12 months  
@@ -65,8 +65,8 @@ Daily
 [Units Charged](#units-charged)  
 
 ### Financial Performance  
-**Measure Description**  
-Financial Performance Measure Description  
+**Report Description**  
+Financial Performance Report Description  
 Charges description  
 Net Collections description  
 Expenses description  
@@ -101,7 +101,7 @@ List report update frequency
 [PY Charges](#py-charges)  
 
 ### Income Statement  
-**Measure Description**  
+**Report Description**  
 Income Statement Description  
 **Default Date Range**  
 Last 12 months  
@@ -123,7 +123,7 @@ Daily
 [Revenue](#revenue) 
 
 ### Monthly Statement  
-**Measure Description**  
+**Report Description**  
 Monthly Statement Description  
 **Default Date Range**  
 Current Calender Year Month  
@@ -145,7 +145,7 @@ Daily
 [Work RVU](#work-rvu)  
 
 ### Patients  
-**Measure Description**  
+**Report Description**  
 Patients Description  
 **Default Date Range**  
 Last 12 months  
@@ -162,7 +162,7 @@ Daily
 [Provider Specialty](#provider-specialty)  
 
 ### Payor Analysis  
-**Measure Description**  
+**Report Description**  
 Payor Analysis Description  
 **Default Date Range**  
 Last 12 months  
@@ -187,7 +187,7 @@ Daily
 
 
 ### Physician Compensation  
-**Measure Description**  
+**Report Description**  
 Physician Compensation Description  
 **Default Date Range**  
 Current month  
@@ -232,7 +232,7 @@ Daily
 [Total Income](#total-income) 
 
 ### Provider Productivity  
-**Measure Description**  
+**Report Description**  
 Provider Productivity Description  
 **Default Date Range**  
 Last 6 months  
@@ -259,8 +259,8 @@ Daily
 [Work RVU per E&M Patient](#work-rvu-per-em-patient)  
 
 ### Visits  
-**Measure Description**  
-Visits Measure Description  
+**Report Description**  
+Visits Report Description  
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
