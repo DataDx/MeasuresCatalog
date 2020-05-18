@@ -4,7 +4,7 @@
 
 | Report Name    | Description               |
 | -------------  |-------------              |
-| [Adjustments](#adjustments)           | Adjustments Report Description. Adjustments per CPT code, percentage adjustments to charges, and total adjustments.        |
+| [Adjustments](#adjustments)           | Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Report Description   |
 | [Financial Performance](#financial-performance)         | Financial Performance Report Description        |
 | [Income Statement](#income-statement)         | Income Statement Report Description        |
@@ -21,7 +21,7 @@
 
 ### Adjustments  
 **Report Description**  
-Adjustments Report Description  
+Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.   
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
