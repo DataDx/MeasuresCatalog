@@ -14,7 +14,7 @@
 | [Physician Compensation](#physician-compensation)        | The Physician Compensation Module is custom built to meet the exact specifications of the clinic’s compensation calculation. Having your provider compensation automated eliminates manual data entry errors that can result in mistakes in payroll. Additionally, physicians can see in real-time what their compensation will be, rather than waiting until comp is calculated manually.          |
 | [Provider Benchmarks](#provider-benchmarks)        | The Provider Benchmarks Report displays a summary level view of four key provider productivity stats (wRVUs, Visits, Panel Size, and Net Collections) for the selected date range or filter in the graphs and tables provided on the report page. Comparison to 25th, 50th, and 75th percentile benchmarks are displayed in bar and line chart. Variance to median calculation is performed in benchmark table. Where data is available the Provider Benchmarks Report allows filtering of visuals by Provider, or Organization Specialty.  |
 | [Provider Productivity](#provider-productivity)        | The Provider Productivity Report displays a summary level view of key stats (Gross Charges, Net Collections, Patients, Days Worked, wRVUs, and Total RVUs) for the selected date range or filter in the tiles on the top of the report page.        |
-| [Visits](#visits)         | Visits Report Description        |
+| [Visits](#visits)         | The Visits Report displays a summary level view of key stats (New Patient Visits, Percentage of New Patient Visits, Established Patient Visits, Percentage of Established Patient Visits, No Charge Visits, and Total Visits) for the selected date range or filter in the tiles on the top of the report page. The ribbon chart in the middle of the report page displays the Top 5 CPT codes by payments. The bar charts on the bottom of the report page show the coding distribution of New Patient Visits and Established Patient Visits by CPT Code.         |
 | [Glossary](#glossary)         | All field definitions        |
 
 <a href="https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY" target="_blank">Click here to submit feedback or suggestions</a>  
@@ -260,7 +260,7 @@ Daily
 
 ### Visits  
 **Report Description**  
-Visits Report Description  
+The Visits Report displays a summary level view of key stats (New Patient Visits, Percentage of New Patient Visits, Established Patient Visits, Percentage of Established Patient Visits, No Charge Visits, and Total Visits) for the selected date range or filter in the tiles on the top of the report page. The ribbon chart in the middle of the report page displays the Top 5 CPT codes by payments. The bar charts on the bottom of the report page show the coding distribution of New Patient Visits and Established Patient Visits by CPT Code.    
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
