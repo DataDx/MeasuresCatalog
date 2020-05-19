@@ -5,7 +5,7 @@
 | Report Name    | Description               |
 | -------------  |-------------              |
 | [Adjustments](#adjustments)           | Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.        |
-| [Accounts Receivable Aging](#accounts-receivable-aging)      | Accounts Receivable Aging Report Description   |
+| [Accounts Receivable Aging](#accounts-receivable-aging)      | Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.     |  
 | [Financial Performance](#financial-performance)         | Financial Performance Report Description        |
 | [Income Statement](#income-statement)         | Income Statement Report Description        |
 | [Monthly Statement](#monthly-statement)         | Monthly Statement Report Description        |
@@ -40,7 +40,7 @@ Daily
 
 ### Accounts Receivable Aging  
 **Report Description**  
-Accounts Receivable Aging Description  
+Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.   
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
