@@ -13,7 +13,7 @@
 | [Payor Analysis](#payor-analysis)        | The Payor Analysis Report displays a summary level view of key payor mix stats (patient Visits by Payor, wRVUs by Payor, and Net Collections by Payor) for the selected date range or filter in the donut graphs on the top of the report page. Where data is available, the Payor Analysis Report allows filtering of visuals by Payor Group, Facility (location), Provider, Specialty, Department, or CPT Code.         |
 | [Physician Compensation](#physician-compensation)        | The Physician Compensation Module is custom built to meet the exact specifications of the clinic’s compensation calculation. Having your provider compensation automated eliminates manual data entry errors that can result in mistakes in payroll. Additionally, physicians can see in real-time what their compensation will be, rather than waiting until comp is calculated manually.          |
 | [Provider Benchmarks](#provider-benchmarks)        | The Provider Benchmarks Report displays a summary level view of four key provider productivity stats (wRVUs, Visits, Panel Size, and Net Collections) for the selected date range or filter in the graphs and tables provided on the report page. Comparison to 25th, 50th, and 75th percentile benchmarks are displayed in bar and line chart. Variance to median calculation is performed in benchmark table. Where data is available the Provider Benchmarks Report allows filtering of visuals by Provider, or Organization Specialty.  |
-| [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
+| [Provider Productivity](#provider-productivity)        | The Provider Productivity Report displays a summary level view of key stats (Gross Charges, Net Collections, Patients, Days Worked, wRVUs, and Total RVUs) for the selected date range or filter in the tiles on the top of the report page.        |
 | [Visits](#visits)         | Visits Report Description        |
 | [Glossary](#glossary)         | All field definitions        |
 
@@ -233,7 +233,7 @@ Daily
 
 ### Provider Productivity  
 **Report Description**  
-Provider Productivity Description  
+The Provider Productivity Report displays a summary level view of key stats (Gross Charges, Net Collections, Patients, Days Worked, wRVUs, and Total RVUs) for the selected date range or filter in the tiles on the top of the report page.    
 **Default Date Range**  
 Last 6 months  
 **Original Data Source**  
