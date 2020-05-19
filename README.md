@@ -10,7 +10,7 @@
 | [Income Statement](#income-statement)         | The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.         |
 | [Monthly Statement](#monthly-statement)         | The Monthly Statement Report displays a calendar style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps them realize highs and lows throughout their practice.         |
 | [Patients](#patients)         | The Patients Report displays patient demographic information (distribution of patient age at time of visit, and distribution of patient home zip codes at time of visit) for the selected date range or filter in the visuals and table located on the report page. Where data is available the Patients Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
-| [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
+| [Payor Analysis](#payor-analysis)        | The Payor Analysis Report displays a summary level view of key payor mix stats (patient Visits by Payor, wRVUs by Payor, and Net Collections by Payor) for the selected date range or filter in the donut graphs on the top of the report page. Where data is available, the Payor Analysis Report allows filtering of visuals by Payor Group, Facility (location), Provider, Specialty, Department, or CPT Code.         |
 | [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
 | [Provider Benchmarks](#provider-benchmarks)        | Provider Benchmarks Description        |
 | [Provider Productivity](#provider-productivity)        | Provider Productivity Description        |
@@ -163,7 +163,7 @@ Daily
 
 ### Payor Analysis  
 **Report Description**  
-Payor Analysis Description  
+The Payor Analysis Report displays a summary level view of key payor mix stats (patient Visits by Payor, wRVUs by Payor, and Net Collections by Payor) for the selected date range or filter in the donut graphs on the top of the report page. Where data is available, the Payor Analysis Report allows filtering of visuals by Payor Group, Facility (location), Provider, Specialty, Department, or CPT Code.    
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
