@@ -7,7 +7,7 @@
 | [Adjustments](#adjustments)           | Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.     |  
 | [Financial Performance](#financial-performance)         | The financial performance report displays 5 key trends and ratios for measuring charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
-| [Income Statement](#income-statement)         | Income Statement Report Description        |
+| [Income Statement](#income-statement)         | The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.         |
 | [Monthly Statement](#monthly-statement)         | Monthly Statement Report Description        |
 | [Patients](#patients)         | Patients Report Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
@@ -102,7 +102,7 @@ List report update frequency
 
 ### Income Statement  
 **Report Description**  
-Income Statement Description  
+The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.   
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
