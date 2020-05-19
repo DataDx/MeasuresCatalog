@@ -9,7 +9,7 @@
 | [Financial Performance](#financial-performance)         | The financial performance report displays 5 key trends and ratios for measuring charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
 | [Income Statement](#income-statement)         | The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.         |
 | [Monthly Statement](#monthly-statement)         | The Monthly Statement Report displays a calendar style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps them realize highs and lows throughout their practice.         |
-| [Patients](#patients)         | Patients Report Description        |
+| [Patients](#patients)         | The Patients Report displays patient demographic information (distribution of patient age at time of visit, and distribution of patient home zip codes at time of visit) for the selected date range or filter in the visuals and table located on the report page. Where data is available the Patients Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
 | [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
 | [Provider Benchmarks](#provider-benchmarks)        | Provider Benchmarks Description        |
@@ -146,7 +146,7 @@ Daily
 
 ### Patients  
 **Report Description**  
-Patients Description  
+The Patients Report displays patient demographic information (distribution of patient age at time of visit, and distribution of patient home zip codes at time of visit) for the selected date range or filter in the visuals and table located on the report page. Where data is available the Patients Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.    
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
