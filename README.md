@@ -8,7 +8,7 @@
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.     |  
 | [Financial Performance](#financial-performance)         | The financial performance report displays 5 key trends and ratios for measuring charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
 | [Income Statement](#income-statement)         | The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.         |
-| [Monthly Statement](#monthly-statement)         | Monthly Statement Report Description        |
+| [Monthly Statement](#monthly-statement)         | The Monthly Statement Report displays a calendar style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps them realize highs and lows throughout their practice.         |
 | [Patients](#patients)         | Patients Report Description        |
 | [Payor Analysis](#payor-analysis)        | Payor Analysis Description        |
 | [Physician Compensation](#physician-compensation)        | Physician Compensation Description        |
@@ -124,7 +124,7 @@ Daily
 
 ### Monthly Statement  
 **Report Description**  
-Monthly Statement Description  
+The Monthly Statement Report displays a calendar style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps them realize highs and lows throughout their practice.    
 **Default Date Range**  
 Current Calender Year Month  
 **Original Data Source**  
