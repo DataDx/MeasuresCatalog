@@ -460,7 +460,7 @@ Income - Expenses - [Retained Earnings](#retained-earnings)   - Special Lab - Dr
 Profit minus retained earnings.  
 [Distribution Income](#distribution-income) - [Retained Earnings](#retained-earnings)    
 #### Total RVU  
-Relative Value Units (RVUs) for the "physician work RVUs," "practice expense," and "malpractice RVUs," including any adjustments made as a result of modifier usage.  
+[Relative Value Units](#rvu) for the "physician work RVUs," "practice expense," and "malpractice RVUs," including any adjustments made as a result of modifier usage.  
 #### Total RVU per Patient  
 [Total RVU](#total-rvu) / Unique Patient Count
 #### Total Visit Charges  
@@ -473,7 +473,7 @@ Relative Value Units (RVUs) for the "physician work RVUs," "practice expense," a
 #### Units Charged 
 #### Visits w transactions  
 #### Work RVU  
-Relative Value Units (RVUs) for the "physician work RVUs" only; including any adjustments made as a result of modifier usage. A work relative value unit (wRVU) is a non-monetary unit of measure that indicates the professional value of services provided by a physician or allied healthcare professional.  
+[Relative Value Units](#rvu) for the "physician work RVUs" only; including any adjustments made as a result of modifier usage. A work relative value unit (wRVU) is a non-monetary unit of measure that indicates the professional value of services provided by a physician or allied healthcare professional.  
 #### Work RVU per Patient  
 [Work RVU](#work-rvu) / Unique Patient Count  
 
