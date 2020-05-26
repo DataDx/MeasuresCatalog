@@ -1,6 +1,6 @@
 ![](pictures/datadx_logo.jpg)
 
-# DataDx Measures Catalog 
+# DataDx Report Definitions 
 
 | Report Name    | Description               |
 | -------------  |-------------              |
@@ -26,8 +26,6 @@ Represents the value of services performed for which payment is not expected, su
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [% Adjustments to Charges](#-adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
@@ -45,8 +43,6 @@ Shows the unpaid invoice balances along with the duration for which they've been
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [Amount Adjusted](#amount-adjusted)  
 [Amount Charged](#amount-charged)  
@@ -74,8 +70,6 @@ Expenses description
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-List report update frequency  
 **Fields and Definitions (click for definition)**  
 [Charges per Provider](#charges-per-provider)  
 [Charges per Total RVU](#charges-per-total-rvu)  
@@ -107,9 +101,7 @@ The Income Statement report, also known as the Profit and Loss (P&L) report, sho
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
-**Fields and Definitions (click for definition)**  
++**Fields and Definitions (click for definition)**  
 [CalendarYearMonth](#calendaryearmonth)  
 [CalendarYearQuarter](#calendaryearquarter)  
 [Client Account Name](#client-account-name)  
@@ -129,8 +121,6 @@ The Monthly Statement Report displays a calendar style view of key production da
 Current Calender Year Month  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [CalenderYearMonth](#calenderyearmonth)  
 [Location Name](#location-name)  
@@ -151,8 +141,6 @@ The Patients Report displays patient demographic information (distribution of pa
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [CPT Code](#cpt-code)  
 [Location Name](#location-name)  
@@ -168,8 +156,6 @@ The Payor Analysis Report displays a summary level view of key payor mix stats (
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [CalenderYearMonth](#calenderyearmonth)  
 [Charges](#charges)  
@@ -193,8 +179,6 @@ Physician Compensation Description
 Current month  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [Account Name](#account-name)  
 [AllAdjust](#alladjust)  
@@ -238,8 +222,6 @@ The Provider Productivity Report displays a summary level view of key stats (Gro
 Last 6 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [Days Worked](#days-worked)  
 [Department Name](#department-name)  
@@ -265,8 +247,6 @@ The Visits Report displays a summary level view of key stats (New Patient Visits
 Last 12 months  
 **Original Data Source**  
 List data source  
-**Update Frequency**  
-Daily  
 **Fields and Definitions (click for definition)**  
 [% New Visits of New and Established](#new-visits-of-new-and-established)  
 [CalendarYearMonth](#calendaryearmonth)  
