@@ -66,7 +66,7 @@ The financial performance report displays 5 key trends and ratios for measuring 
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Accounting Software and Electronic Health Record Systems  
 **Fields and Definitions (click for definition)**  
 [Charges per Provider](#charges-per-provider)  
 [Charges per Total RVU](#charges-per-total-rvu)  
@@ -90,6 +90,8 @@ List data source
 [PY Charges per Visit](#py-charges-per-visit)  
 [PY Charges per Work RVU](#py-charges-per-work-rvu)  
 [PY Charges](#py-charges)  
+**Example**  
+![](pictures/Financial-Performance-Report.jpg)  
 
 ### Income Statement  
 **Report Description**  
@@ -218,7 +220,7 @@ The Provider Productivity Report displays a summary level view of key stats (Gro
 **Default Date Range**  
 Last 6 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems  
 **Fields and Definitions (click for definition)**  
 [Days Worked](#days-worked)  
 [Department Name](#department-name)  
@@ -236,6 +238,8 @@ List data source
 [Total RVU per E&M Patient](#total-rvu-per-em-patient)  
 [Work RVU](#work-rvu)  
 [Work RVU per E&M Patient](#work-rvu-per-em-patient)  
+**Example**  
+![](pictures/Provider-Productivity-Report.jpg)  
 
 ### Visits  
 **Report Description**  
