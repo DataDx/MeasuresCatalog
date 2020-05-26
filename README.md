@@ -6,7 +6,7 @@
 | -------------  |-------------              |
 | [Adjustments](#adjustments)           | Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.        |
 | [Accounts Receivable Aging](#accounts-receivable-aging)      | Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.     |  
-| [Financial Performance](#financial-performance)         | The financial performance report displays 5 key trends and ratios for measuring charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
+| [Financial Performance](#financial-performance)         | The financial performance report displays 5 key trends and ratios for measuring Charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
 | [Income Statement](#income-statement)         | The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.         |
 | [Monthly Statement](#monthly-statement)         | The Monthly Statement Report displays a calendar style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps them realize highs and lows throughout their practice.         |
 | [Patients](#patients)         | The Patients Report displays patient demographic information (distribution of patient age at time of visit, and distribution of patient home zip codes at time of visit) for the selected date range or filter in the visuals and table located on the report page. Where data is available the Patients Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.         |
@@ -62,10 +62,7 @@ List data source
 
 ### Financial Performance  
 **Report Description**  
-The financial performance report displays 5 key trends and ratios for measuring charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.    
-Charges description  
-Net Collections description  
-Expenses description  
+The financial performance report displays 5 key trends and ratios for measuring Charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.   
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
@@ -280,6 +277,8 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 [Adjustments](#adjustments-1) / [Visit](#visit)  
 #### Adjustments per Work RVU  
 [Adjustments](#adjustments-1) / [Work RVU](#work-rvu)  
+#### Amount  
+he quantity in dollars of a patient transaction or accounting entry.  
 #### Amount Adjusted  
 #### Amount Charged  
 #### Amount Collected  
@@ -436,6 +435,8 @@ The specialty of the provider, e.g., Pediatric, Dental, Skin.
 #### Refund  
 Refund amounts from Sage, allocated by production percent.  
 Refund Amount * [Production Percent](#production-percent)  
+#### RVU  
+Relative Value Unit is a measure of value, or the relative resource intensity, of providing a medical service that is used by Medicare and other insurance carriers to reimburse for physician services.  
 #### Retained Earnings  
 If the clinic decides to retain a certain amount of reserve savings in a month, this total amount is distributed as an expense across all partners according to their production percent. The amount of retained earnings chosen is a combination of a formula based on income and expenses combined with a base amount chosen by OOS staff.  
 #### Revenue  
