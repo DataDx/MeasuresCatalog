@@ -27,6 +27,7 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
 **Fields and Definitions (click for definition)**  
+[% Adjustments to Charges](#-adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
 [CPT Code](#cpt-code)  
 [DataDxPayorGroup](#datadxpayorgroup)  
@@ -155,6 +156,7 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
+[% Visits by Payor](#visits-by-payor)
 [CalenderYearMonth](#calenderyearmonth)  
 [Charges](#charges)  
 [CPT Code](#cpt-code)  
@@ -248,6 +250,8 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
+[% Established Visits](#established-visits)
+[% New Visits](#new-visits)  
 [CalendarYearMonth](#calendaryearmonth)  
 [CPT Code](#cpt-code)  
 [Established Patient Visits](#established-patient-visits)  
@@ -260,6 +264,15 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Total Visits](#total-visits)  
 
 ### Glossary
+
+#### % Adjustments to Charges  
+([Adjustments](#adjustments-1) / [Charges](#charges)) * 100
+#### % Established Visits  
+([Established Visits](#established-patient-visits) / [New and Established Visits](#new-and-established-patient-visits)) * 100
+#### % New Visits  
+([New Visits](#new-patient-visits) / [New and Established Visits](#new-and-established-patient-visits)) * 100
+#### % Visits by Payor  
+([Visits by Payor](#payor) / [New and Established Visits](#new-and-established-patient-visits)) * 100
 #### Account Name  
 Name of the account, e.g., Payroll, Lab Equipment, Supplies, Marketing.  
 #### Accounts Receivable
@@ -354,7 +367,7 @@ The Sum of Credit Amount and Debit Amount for a particular General Ledger accoun
 #### Net Income  
 Calculated as revenues minus expenses, interest, and taxes.  
 [Revenue](#revenue) - [Expenses](#expenses)  
-#### New & Established Patient Visits  
+#### New and Established Patient Visits  
 New Patient Visits + Established Patient Visits  
 #### New Patient Visits  
 Number of visits of patients whom have not received any professional services from the physician, or another physician of the same specialty who belongs to the same group practice, within the past three years  
