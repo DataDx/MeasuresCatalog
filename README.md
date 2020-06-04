@@ -27,7 +27,6 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
 **Fields and Definitions (click for definition)**  
-[% Adjustments to Charges](#-adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
 [CPT Code](#cpt-code)  
 [DataDxPayorGroup](#datadxpayorgroup)  
@@ -100,7 +99,7 @@ The Income Statement report, also known as the Profit and Loss (P&L) report, sho
 Last 12 months  
 **Original Data Source**  
 Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
-+**Fields and Definitions (click for definition)**  
+**Fields and Definitions (click for definition)**  
 [CalendarYearMonth](#calendaryearmonth)  
 [CalendarYearQuarter](#calendaryearquarter)  
 [Client Account Name](#client-account-name)  
@@ -249,7 +248,6 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
-[% New Visits of New and Established](#new-visits-of-new-and-established)  
 [CalendarYearMonth](#calendaryearmonth)  
 [CPT Code](#cpt-code)  
 [Established Patient Visits](#established-patient-visits)  
@@ -262,11 +260,6 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Total Visits](#total-visits)  
 
 ### Glossary
-
-#### % Adjustments to Charges  
-#### % Established Visits of New and Established  
-#### % New Visits of Newand Established  
-#### % Visits by Payor  
 #### Account Name  
 Name of the account, e.g., Payroll, Lab Equipment, Supplies, Marketing.  
 #### Accounts Receivable
