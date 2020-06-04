@@ -25,7 +25,7 @@ Represents the value of services performed for which payment is not expected, su
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
 **Fields and Definitions (click for definition)**  
 [% Adjustments to Charges](#-adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
@@ -42,7 +42,7 @@ Shows the unpaid invoice balances along with the duration for which they've been
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
 **Fields and Definitions (click for definition)**  
 [Amount Adjusted](#amount-adjusted)  
 [Amount Charged](#amount-charged)  
@@ -66,7 +66,7 @@ The financial performance report displays 5 key trends and ratios for measuring 
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-Accounting Software and Electronic Health Record Systems  
+Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [Charges per Provider](#charges-per-provider)  
 [Charges per Total RVU](#charges-per-total-rvu)  
@@ -99,7 +99,7 @@ The Income Statement report, also known as the Profit and Loss (P&L) report, sho
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
 +**Fields and Definitions (click for definition)**  
 [CalendarYearMonth](#calendaryearmonth)  
 [CalendarYearQuarter](#calendaryearquarter)  
@@ -119,7 +119,7 @@ The Monthly Statement Report displays a calendar style view of key production da
 **Default Date Range**  
 Current Calender Year Month  
 **Original Data Source**  
-List data source  
+Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [CalenderYearMonth](#calenderyearmonth)  
 [Location Name](#location-name)  
@@ -139,7 +139,7 @@ The Patients Report displays patient demographic information (distribution of pa
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [CPT Code](#cpt-code)  
 [Location Name](#location-name)  
@@ -154,7 +154,7 @@ The Payor Analysis Report displays a summary level view of key payor mix stats (
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [CalenderYearMonth](#calenderyearmonth)  
 [Charges](#charges)  
@@ -177,7 +177,7 @@ Physician Compensation Description
 **Default Date Range**  
 Current month  
 **Original Data Source**  
-List data source  
+Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [Account Name](#account-name)  
 [AllAdjust](#alladjust)  
@@ -220,7 +220,7 @@ The Provider Productivity Report displays a summary level view of key stats (Gro
 **Default Date Range**  
 Last 6 months  
 **Original Data Source**  
-Electronic Health Record Systems  
+Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [Days Worked](#days-worked)  
 [Department Name](#department-name)  
@@ -247,7 +247,7 @@ The Visits Report displays a summary level view of key stats (New Patient Visits
 **Default Date Range**  
 Last 12 months  
 **Original Data Source**  
-List data source  
+Electronic Health Record Systems and/or Practice Management Systems  
 **Fields and Definitions (click for definition)**  
 [% New Visits of New and Established](#new-visits-of-new-and-established)  
 [CalendarYearMonth](#calendaryearmonth)  
