@@ -35,6 +35,8 @@ Electronic Health Record Systems, Practice Managment Systems, and/or Billing Sof
 [Facility](#facility)  
 [Provider](#provider)  
 [Specialty](#specialty)  
+**Example**  
+![](pictures/Adjustments-Report.jpg)  
 
 ### Accounts Receivable Aging  
 **Report Description**  
@@ -44,8 +46,8 @@ Last 12 months
 **Original Data Source**  
 Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
 **Fields and Definitions (click for definition)**  
-[Amount Adjusted](#amount-adjusted)  
-[Amount Charged](#amount-charged)  
+[Adjustments](#adjustments)  
+[Charges](#charges)  
 [Amount Collected](#amount-collected)  
 [Client ID](#client-id)  
 [CPT Code](#cpt-code)  
@@ -59,6 +61,8 @@ Electronic Health Record Systems, Practice Managment Systems, and/or Billing Sof
 [Service Date](#service-date)  
 [Transaction Voided](#transaction-voided)  
 [Units Charged](#units-charged)  
+**Example**  
+![](pictures/Accounts-Receivable-Aging-Report.jpg) 
 
 ### Financial Performance  
 **Report Description**  
@@ -112,6 +116,8 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 [Revenue](#revenue) 
+**Example**  
+![](pictures/Income-Statement-Report.jpg) 
 
 ### Monthly Statement  
 **Report Description**  
@@ -131,7 +137,9 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [PY Net Collections per Visit](#py-net-collections-per-visit)  
 [PY Professional Collections](#py-professional-collections)  
 [Total RVU](#total-rvu)  
-[Work RVU](#work-rvu)  
+[Work RVU](#work-rvu) 
+**Example**  
+![](pictures/Monthly-Statement-Report.jpg)  
 
 ### Patients  
 **Report Description**  
@@ -147,6 +155,8 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Patient Visits](#patient-visits)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
+**Example**  
+![](pictures/Patients-Report.jpg)  
 
 ### Payor Analysis  
 **Report Description**  
@@ -214,6 +224,8 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Total Distribution](#total-distribution)  
 [Total Expenses](#total-expenses)  
 [Total Income](#total-income) 
+**Example**  
+![](pictures/Physician-Compensation-Report.jpg)  
 
 ### Provider Productivity  
 **Report Description**  
@@ -262,6 +274,8 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 [Total Visits](#total-visits)  
+**Example**  
+![](pictures/Visits-Report.jpg) 
 
 ### Glossary
 
@@ -288,7 +302,7 @@ Adjustments, or write-off's, are the dollars that are adjusted off a patient acc
 #### Adjustments per Work RVU  
 [Adjustments](#adjustments-1) / [Work RVU](#work-rvu)  
 #### Amount  
-he quantity in dollars of a patient transaction or accounting entry.  
+The quantity in dollars of a patient transaction or accounting entry.  
 #### Amount Adjusted  
 #### Amount Charged  
 #### Amount Collected  
