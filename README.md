@@ -19,13 +19,18 @@
 
 <a href="https://forms.zohopublic.com/datadx/form/DataDxMeasuresFeedbackandSuggestions/formperma/FWwqrKd2LgLfTQhymN0AksMkjwUMI4t19FF-SL_2ICY" target="_blank">Click here to submit feedback or suggestions</a>  
 
+---
+
 ### Adjustments  
 **Report Description**  
 Represents the value of services performed for which payment is not expected, such as third-party contractual adjustments, write-offs, charitable, professional courtesy or employee adjustments.   
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
+
 **Fields and Definitions (click for definition)**  
 [% Adjustments to Charges](#adjustments-to-charges)  
 [Adjustments](#adjustments-1)  
@@ -35,16 +40,22 @@ Electronic Health Record Systems, Practice Managment Systems, and/or Billing Sof
 [Facility](#facility)  
 [Provider](#provider)  
 [Provider Specialty](#provider-specialty)  
+
 **Example**  
 ![](pictures/Adjustments-Report.jpg)  
 
+---
+
 ### Accounts Receivable Aging  
 **Report Description**  
-Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients.   
+Shows the unpaid invoice balances along with the duration for which they've been outstanding. This report helps businesses identify invoices that are open and allows them to keep on top of slow paying clients. 
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Electronic Health Record Systems, Practice Managment Systems, and/or Billing Software  
+
 **Fields and Definitions (click for definition)**  
 [Adjustments](#adjustments-1)  
 [Charges](#charges)  
@@ -60,16 +71,22 @@ Electronic Health Record Systems, Practice Managment Systems, and/or Billing Sof
 [Service Date](#service-date)  
 [Transaction Voided](#transaction-voided)  
 [Units Charged](#units-charged)  
+
 **Example**  
 ![](pictures/Accounts-Receivable-Aging-Report.jpg) 
+
+---
 
 ### Financial Performance  
 **Report Description**  
 The financial performance report displays 5 key trends and ratios for measuring Charges, Net Collections, and Expenses for the selected time range and report filters. Where data is available, the Financial Performance Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.   
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [Charges per Provider](#charges-per-provider)  
 [Charges per Total RVU](#charges-per-total-rvu)  
@@ -88,16 +105,22 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Net Collections](#net-collections)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
+
 **Example**  
 ![](pictures/Financial-Performance-Report.jpg)  
+
+---
 
 ### Income Statement  
 **Report Description**  
 The Income Statement report, also known as the Profit and Loss (P&L) report, shows revenue, expense, and net income trends and account data for the selected date range.   
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [Calendar Year Month](#calendar-year-month)  
 [Calendar Year Quarter](#calendar-year-quarter)  
@@ -110,16 +133,22 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 [Revenue](#revenue) 
+
 **Example**  
 ![](pictures/Income-Statement-Report.jpg) 
+
+---
 
 ### Monthly Statement  
 **Report Description**  
 The Monthly Statement Report displays a calendar-style view of key production data and can be used to answer questions related to physician compensation or provider/clinic capacity. This report helps visualize average cost per day, revenue per day, and capacity per day. This helps to realize highs and lows throughout a practice.    
+
 **Default Date Range**  
 Current Calendar Year Month  
+
 **Original Data Source**  
 Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [Calendar Year Month](#calendar-year-month)  
 [Location Name](#location-name)  
@@ -129,16 +158,22 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Provider Specialty](#provider-specialty)   
 [Total RVU](#total-rvu)  
 [Work RVU](#work-rvu) 
+
 **Example**  
 ![](pictures/Monthly-Statement-Report.jpg)  
+
+---
 
 ### Patients  
 **Report Description**  
 The Patients Report displays patient demographic information (distribution of patient age at time of visit, and distribution of patient home zip codes at time of visit) for the selected date range or filter in the visuals and table located on the report page. Where data is available the Patients Report allows filtering of measures by Facility (location), Provider, Specialty, or Department.    
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [CPT Code](#cpt-code)  
 [Location Name](#location-name)  
@@ -146,16 +181,22 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Patient Visits](#patient-visits)  
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
+
 **Example**  
 ![](pictures/Patients-Report.jpg)  
+
+---
 
 ### Payor Analysis  
 **Report Description**  
 The Payor Analysis Report displays a summary level view of key payor mix stats (patient Visits by Payor, wRVUs by Payor, and Net Collections by Payor) for the selected date range or filter in the donut graphs on the top of the report page. Where data is available, the Payor Analysis Report allows filtering of visuals by Payor Group, Facility (location), Provider, Specialty, Department, or CPT Code.    
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [% Visits by Payor](#visits-by-payor)
 [Calendar Year Month](#calendar-year-month)  
@@ -169,19 +210,24 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Provider Name](#provider-name)  
 [Provider Specialty](#provider-specialty)  
 [Work RVU](#work-rvu)  
+
 **Example**  
 ![](pictures/Payor-Analysis-Report.jpg)  
 
+---
 
 ### Physician Compensation  
 **Report Description**  
 The Physician Compensation Module is an interconnected series of reports that calculates physician owner compensation based on the defined rules of your practice.
 
 Typically a report will contain reports showing the amount of income and expenses attributed to each physician owner, along with many adjustment calculations needed to be both fair and compliant.  The example shown below represents a base-level report before customization to a particular practice.
+
 **Default Date Range**  
 Current month  
+
 **Original Data Source**  
 Accounting Software, Electronic Health Record Systems, and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [Account Name](#account-name)  
 [Buy-In Expense](#buy-in-expense)  
@@ -203,16 +249,22 @@ Accounting Software, Electronic Health Record Systems, and/or Practice Managemen
 [Special Lab](#special-lab)  
 [Take Home Pay](#take-home-pay)  
 [Total Distribution](#total-distribution)  
+
 **Example**  
 ![](pictures/Physician-Compensation-Report.jpg)  
+
+---
 
 ### Provider Productivity  
 **Report Description**  
 The Provider Productivity Report displays a summary level view of key stats (Gross Charges, Net Collections, Patients, Days Worked, wRVUs, and Total RVUs) for the selected date range or filter in the tiles on the top of the report page.    
+
 **Default Date Range**  
 Last 6 months  
+
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [Days Worked](#days-worked)  
 [Department](#department)  
@@ -230,16 +282,22 @@ Electronic Health Record Systems and/or Practice Management Systems
 [Total RVU per Patient](#total-rvu-per-patient)  
 [Work RVU](#work-rvu)  
 [Work RVU per Patient](#work-rvu-per-patient)  
+
 **Example**  
 ![](pictures/Provider-Productivity-Report.jpg)  
+
+---
 
 ### Visits  
 **Report Description**  
 The Visits Report displays a summary level view of key stats (New Patient Visits, Percentage of New Patient Visits, Established Patient Visits, Percentage of Established Patient Visits, No Charge Visits, and Total Visits) for the selected date range or filter in the tiles on the top of the report page. The ribbon chart in the middle of the report page displays the Top 5 CPT codes by payments. The bar charts on the bottom of the report page show the coding distribution of New Patient Visits and Established Patient Visits by CPT Code.    
+
 **Default Date Range**  
 Last 12 months  
+
 **Original Data Source**  
 Electronic Health Record Systems and/or Practice Management Systems  
+
 **Fields and Definitions (click for definition)**  
 [% Established Visits](#established-visits)
 [% New Visits](#new-visits)  
@@ -252,9 +310,12 @@ Electronic Health Record Systems and/or Practice Management Systems
 [No Charge Patient Visits](#no-charge-patient-visits)  
 [Patient Visits](#patient-visits)  
 [Provider Name](#provider-name)  
-[Provider Specialty](#provider-specialty)  
+[Provider Specialty](#provider-specialty) 
+
 **Example**  
 ![](pictures/Visits-Report.jpg) 
+
+---
 
 ### Glossary
 
